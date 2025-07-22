@@ -1,0 +1,898 @@
+{
+  "schedulePeriod": {
+    "ordinal": 1,
+    "low": {
+      "ordinal": 1,
+      "season": 2021,
+      "startEpochMilli": "1631008800000"
+    },
+    "value": 1
+  },
+  "eligibleSchedulePeriods": [
+    {
+      "ordinal": 1,
+      "low": {
+        "ordinal": 1,
+        "season": 2021,
+        "startEpochMilli": "1631008800000"
+      },
+      "value": 1
+    },
+    {
+      "ordinal": 2,
+      "low": {
+        "ordinal": 2,
+        "season": 2021,
+        "startEpochMilli": "1631613600000"
+      },
+      "value": 2
+    },
+    {
+      "ordinal": 3,
+      "low": {
+        "ordinal": 3,
+        "season": 2021,
+        "startEpochMilli": "1632218400000"
+      },
+      "value": 3
+    },
+    {
+      "ordinal": 4,
+      "low": {
+        "ordinal": 4,
+        "season": 2021,
+        "startEpochMilli": "1632823200000"
+      },
+      "value": 4
+    },
+    {
+      "ordinal": 5,
+      "low": {
+        "ordinal": 5,
+        "season": 2021,
+        "startEpochMilli": "1633428000000"
+      },
+      "value": 5
+    },
+    {
+      "ordinal": 6,
+      "low": {
+        "ordinal": 6,
+        "season": 2021,
+        "startEpochMilli": "1634032800000"
+      },
+      "value": 6
+    },
+    {
+      "ordinal": 7,
+      "low": {
+        "ordinal": 7,
+        "season": 2021,
+        "startEpochMilli": "1634637600000"
+      },
+      "value": 7
+    },
+    {
+      "ordinal": 8,
+      "low": {
+        "ordinal": 8,
+        "season": 2021,
+        "startEpochMilli": "1635242400000"
+      },
+      "value": 8
+    },
+    {
+      "ordinal": 9,
+      "low": {
+        "ordinal": 9,
+        "season": 2021,
+        "startEpochMilli": "1635847200000"
+      },
+      "value": 9
+    },
+    {
+      "ordinal": 10,
+      "low": {
+        "ordinal": 10,
+        "season": 2021,
+        "startEpochMilli": "1636455600000"
+      },
+      "value": 10
+    },
+    {
+      "ordinal": 11,
+      "low": {
+        "ordinal": 11,
+        "season": 2021,
+        "startEpochMilli": "1637060400000"
+      },
+      "value": 11
+    },
+    {
+      "ordinal": 12,
+      "low": {
+        "ordinal": 12,
+        "season": 2021,
+        "startEpochMilli": "1637665200000"
+      },
+      "value": 12
+    },
+    {
+      "ordinal": 13,
+      "low": {
+        "ordinal": 13,
+        "season": 2021,
+        "startEpochMilli": "1638270000000"
+      },
+      "value": 13
+    },
+    {
+      "ordinal": 14,
+      "low": {
+        "ordinal": 14,
+        "season": 2021,
+        "startEpochMilli": "1638874800000"
+      },
+      "value": 14
+    },
+    {
+      "ordinal": 15,
+      "low": {
+        "ordinal": 15,
+        "season": 2021,
+        "startEpochMilli": "1639479600000"
+      },
+      "value": 15
+    },
+    {
+      "ordinal": 16,
+      "low": {
+        "ordinal": 16,
+        "season": 2021,
+        "startEpochMilli": "1640170800000"
+      },
+      "value": 16
+    },
+    {
+      "ordinal": 17,
+      "low": {
+        "ordinal": 17,
+        "season": 2021,
+        "startEpochMilli": "1640689200000"
+      },
+      "value": 17
+    }
+  ],
+  "games": [
+    {
+      "id": "49110975",
+      "away": {
+        "id": 1660812,
+        "name": "kevinlab's Team",
+        "recordOverall": {
+          "wins": 7,
+          "losses": 7,
+          "winPercentage": {
+            "value": 0.5,
+            "formatted": ".500"
+          },
+          "rank": 8,
+          "formatted": "7-7"
+        },
+        "recordDivision": {
+          "wins": 2,
+          "losses": 4,
+          "winPercentage": {
+            "value": 0.33333334,
+            "formatted": ".333"
+          },
+          "rank": 3,
+          "formatted": "2-4"
+        },
+        "recordPostseason": {
+          "losses": 2,
+          "winPercentage": {
+            "formatted": ".000"
+          },
+          "rank": 8,
+          "formatted": "0-2"
+        },
+        "pointsFor": {
+          "value": 1732.36,
+          "formatted": "1,732.36"
+        },
+        "pointsAgainst": {
+          "value": 1754.06,
+          "formatted": "1,754.06"
+        },
+        "streak": {
+          "value": -2,
+          "formatted": "L2"
+        },
+        "waiverAcquisitionBudget": {
+          "value": 200,
+          "formatted": "$200"
+        },
+        "newItemCounts": {
+          "activityUnread": 12
+        },
+        "initials": "KT"
+      },
+      "home": {
+        "id": 1670605,
+        "name": "BForm's Team",
+        "recordOverall": {
+          "wins": 5,
+          "losses": 9,
+          "winPercentage": {
+            "value": 0.35714287,
+            "formatted": ".357"
+          },
+          "rank": 12,
+          "formatted": "5-9"
+        },
+        "recordDivision": {
+          "wins": 3,
+          "losses": 3,
+          "winPercentage": {
+            "value": 0.5,
+            "formatted": ".500"
+          },
+          "rank": 4,
+          "formatted": "3-3"
+        },
+        "recordPostseason": {
+          "losses": 1,
+          "winPercentage": {
+            "formatted": ".000"
+          },
+          "rank": 12,
+          "formatted": "0-1"
+        },
+        "pointsFor": {
+          "value": 1589.5,
+          "formatted": "1,589.5"
+        },
+        "pointsAgainst": {
+          "value": 1865.26,
+          "formatted": "1,865.26"
+        },
+        "streak": {
+          "value": 1,
+          "formatted": "W1"
+        },
+        "waiverAcquisitionBudget": {
+          "value": 200,
+          "formatted": "$200"
+        },
+        "newItemCounts": {
+          "activityUnread": 22
+        },
+        "initials": "BT"
+      },
+      "awayScore": {
+        "score": {
+          "value": 147.48,
+          "formatted": "147.48"
+        }
+      },
+      "homeScore": {
+        "score": {
+          "value": 131.26,
+          "formatted": "131.26"
+        }
+      },
+      "homeResult": "LOSE",
+      "awayResult": "WIN",
+      "isFinalScore": true
+    },
+    {
+      "id": "49110971",
+      "away": {
+        "id": 1662341,
+        "name": "Munch and the Munchkins",
+        "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1662341_0_150x150.jpg",
+        "recordOverall": {
+          "wins": 8,
+          "losses": 6,
+          "winPercentage": {
+            "value": 0.5714286,
+            "formatted": ".571"
+          },
+          "rank": 2,
+          "formatted": "8-6"
+        },
+        "recordDivision": {
+          "wins": 2,
+          "losses": 4,
+          "winPercentage": {
+            "value": 0.33333334,
+            "formatted": ".333"
+          },
+          "rank": 2,
+          "formatted": "2-4"
+        },
+        "recordPostseason": {
+          "wins": 2,
+          "losses": 1,
+          "winPercentage": {
+            "value": 0.6666667,
+            "formatted": ".667"
+          },
+          "rank": 4,
+          "formatted": "2-1"
+        },
+        "pointsFor": {
+          "value": 1773.14,
+          "formatted": "1,773.14"
+        },
+        "pointsAgainst": {
+          "value": 1667.92,
+          "formatted": "1,667.92"
+        },
+        "streak": {
+          "value": -3,
+          "formatted": "L3"
+        },
+        "waiverAcquisitionBudget": {
+          "value": 200,
+          "formatted": "$200"
+        },
+        "initials": "MA"
+      },
+      "home": {
+        "id": 1671999,
+        "name": "LiamWallace's Team",
+        "recordOverall": {
+          "wins": 8,
+          "losses": 6,
+          "winPercentage": {
+            "value": 0.5714286,
+            "formatted": ".571"
+          },
+          "rank": 4,
+          "formatted": "8-6"
+        },
+        "recordDivision": {
+          "wins": 4,
+          "losses": 2,
+          "winPercentage": {
+            "value": 0.6666667,
+            "formatted": ".667"
+          },
+          "rank": 1,
+          "formatted": "4-2"
+        },
+        "recordPostseason": {
+          "wins": 2,
+          "losses": 1,
+          "winPercentage": {
+            "value": 0.6666667,
+            "formatted": ".667"
+          },
+          "rank": 3,
+          "formatted": "2-1"
+        },
+        "pointsFor": {
+          "value": 1693.04,
+          "formatted": "1,693.04"
+        },
+        "pointsAgainst": {
+          "value": 1702.02,
+          "formatted": "1,702.02"
+        },
+        "streak": {
+          "value": 1,
+          "formatted": "W1"
+        },
+        "waiverAcquisitionBudget": {
+          "value": 200,
+          "formatted": "$200"
+        },
+        "newItemCounts": {
+          "activityUnread": 22
+        },
+        "initials": "LT"
+      },
+      "awayScore": {
+        "score": {
+          "value": 142.8,
+          "formatted": "142.8"
+        }
+      },
+      "homeScore": {
+        "score": {
+          "value": 91.72,
+          "formatted": "91.72"
+        }
+      },
+      "homeResult": "LOSE",
+      "awayResult": "WIN",
+      "isFinalScore": true
+    },
+    {
+      "id": "49110974",
+      "away": {
+        "id": 1662370,
+        "name": "The NFC Least",
+        "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1662370_0_150x150.jpg",
+        "recordOverall": {
+          "wins": 5,
+          "losses": 9,
+          "winPercentage": {
+            "value": 0.35714287,
+            "formatted": ".357"
+          },
+          "rank": 11,
+          "formatted": "5-9"
+        },
+        "recordDivision": {
+          "wins": 3,
+          "losses": 3,
+          "winPercentage": {
+            "value": 0.5,
+            "formatted": ".500"
+          },
+          "rank": 4,
+          "formatted": "3-3"
+        },
+        "recordPostseason": {
+          "losses": 1,
+          "winPercentage": {
+            "formatted": ".000"
+          },
+          "rank": 11,
+          "formatted": "0-1"
+        },
+        "pointsFor": {
+          "value": 1668.72,
+          "formatted": "1,668.72"
+        },
+        "pointsAgainst": {
+          "value": 1833.16,
+          "formatted": "1,833.16"
+        },
+        "streak": {
+          "value": -1,
+          "formatted": "L1"
+        },
+        "waiverAcquisitionBudget": {
+          "value": 200,
+          "formatted": "$200"
+        },
+        "initials": "TN"
+      },
+      "home": {
+        "id": 1667805,
+        "name": "Pat n Ma'Homies",
+        "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1667805_0_150x150.jpg",
+        "recordOverall": {
+          "wins": 7,
+          "losses": 7,
+          "winPercentage": {
+            "value": 0.5,
+            "formatted": ".500"
+          },
+          "rank": 7,
+          "formatted": "7-7"
+        },
+        "recordDivision": {
+          "wins": 3,
+          "losses": 3,
+          "winPercentage": {
+            "value": 0.5,
+            "formatted": ".500"
+          },
+          "rank": 2,
+          "formatted": "3-3"
+        },
+        "recordPostseason": {
+          "wins": 1,
+          "losses": 1,
+          "winPercentage": {
+            "value": 0.5,
+            "formatted": ".500"
+          },
+          "rank": 7,
+          "formatted": "1-1"
+        },
+        "pointsFor": {
+          "value": 1756.7,
+          "formatted": "1,756.7"
+        },
+        "pointsAgainst": {
+          "value": 1743.5,
+          "formatted": "1,743.5"
+        },
+        "streak": {
+          "value": 3,
+          "formatted": "W3"
+        },
+        "waiverAcquisitionBudget": {
+          "value": 200,
+          "formatted": "$200"
+        },
+        "newItemCounts": {
+          "activityUnread": 22
+        },
+        "initials": "PN"
+      },
+      "awayScore": {
+        "score": {
+          "value": 107.74,
+          "formatted": "107.74"
+        }
+      },
+      "homeScore": {
+        "score": {
+          "value": 132.58,
+          "formatted": "132.58"
+        }
+      },
+      "homeResult": "WIN",
+      "awayResult": "LOSE",
+      "isFinalScore": true
+    },
+    {
+      "id": "49110973",
+      "away": {
+        "id": 1666959,
+        "name": "thomas10's Team",
+        "recordOverall": {
+          "wins": 7,
+          "losses": 7,
+          "winPercentage": {
+            "value": 0.5,
+            "formatted": ".500"
+          },
+          "rank": 9,
+          "formatted": "7-7"
+        },
+        "recordDivision": {
+          "wins": 5,
+          "losses": 1,
+          "winPercentage": {
+            "value": 0.8333333,
+            "formatted": ".833"
+          },
+          "rank": 3,
+          "formatted": "5-1"
+        },
+        "recordPostseason": {
+          "wins": 3,
+          "winPercentage": {
+            "value": 1,
+            "formatted": "1.000"
+          },
+          "rank": 9,
+          "formatted": "3-0"
+        },
+        "pointsFor": {
+          "value": 1650.08,
+          "formatted": "1,650.08"
+        },
+        "pointsAgainst": {
+          "value": 1655.94,
+          "formatted": "1,655.94"
+        },
+        "streak": {
+          "value": 2,
+          "formatted": "W2"
+        },
+        "waiverAcquisitionBudget": {
+          "value": 200,
+          "formatted": "$200"
+        },
+        "newItemCounts": {
+          "activityUnread": 9
+        },
+        "initials": "TT"
+      },
+      "home": {
+        "id": 1672191,
+        "name": "JuJu and JuJuJu (Justin x3)",
+        "recordOverall": {
+          "wins": 8,
+          "losses": 6,
+          "winPercentage": {
+            "value": 0.5714286,
+            "formatted": ".571"
+          },
+          "rank": 1,
+          "formatted": "8-6"
+        },
+        "recordDivision": {
+          "wins": 4,
+          "losses": 2,
+          "winPercentage": {
+            "value": 0.6666667,
+            "formatted": ".667"
+          },
+          "rank": 1,
+          "formatted": "4-2"
+        },
+        "recordPostseason": {
+          "wins": 2,
+          "winPercentage": {
+            "value": 1,
+            "formatted": "1.000"
+          },
+          "rank": 2,
+          "formatted": "2-0"
+        },
+        "pointsFor": {
+          "value": 1919.62,
+          "formatted": "1,919.62"
+        },
+        "pointsAgainst": {
+          "value": 1710.9,
+          "formatted": "1,710.9"
+        },
+        "streak": {
+          "value": -1,
+          "formatted": "L1"
+        },
+        "waiverAcquisitionBudget": {
+          "value": 200,
+          "formatted": "$200"
+        },
+        "newItemCounts": {
+          "activityUnread": 22
+        },
+        "initials": "JA"
+      },
+      "awayScore": {
+        "score": {
+          "value": 132.04,
+          "formatted": "132.04"
+        }
+      },
+      "homeScore": {
+        "score": {
+          "value": 157.62,
+          "formatted": "157.62"
+        }
+      },
+      "homeResult": "WIN",
+      "awayResult": "LOSE",
+      "isFinalScore": true
+    },
+    {
+      "id": "49110972",
+      "away": {
+        "id": 1671576,
+        "name": "micnaumann's Team",
+        "recordOverall": {
+          "wins": 7,
+          "losses": 7,
+          "winPercentage": {
+            "value": 0.5,
+            "formatted": ".500"
+          },
+          "rank": 5,
+          "formatted": "7-7"
+        },
+        "recordDivision": {
+          "wins": 3,
+          "losses": 3,
+          "winPercentage": {
+            "value": 0.5,
+            "formatted": ".500"
+          },
+          "rank": 2,
+          "formatted": "3-3"
+        },
+        "recordPostseason": {
+          "losses": 1,
+          "winPercentage": {
+            "formatted": ".000"
+          },
+          "rank": 5,
+          "formatted": "0-1"
+        },
+        "pointsFor": {
+          "value": 1939.02,
+          "formatted": "1,939.02"
+        },
+        "pointsAgainst": {
+          "value": 1832.24,
+          "formatted": "1,832.24"
+        },
+        "streak": {
+          "value": 2,
+          "formatted": "W2"
+        },
+        "waiverAcquisitionBudget": {
+          "value": 200,
+          "formatted": "$200"
+        },
+        "initials": "MT"
+      },
+      "home": {
+        "id": 1671157,
+        "name": "JustinPaley's Team",
+        "recordOverall": {
+          "wins": 10,
+          "losses": 4,
+          "winPercentage": {
+            "value": 0.71428573,
+            "formatted": ".714"
+          },
+          "rank": 3,
+          "formatted": "10-4"
+        },
+        "recordDivision": {
+          "wins": 4,
+          "losses": 2,
+          "winPercentage": {
+            "value": 0.6666667,
+            "formatted": ".667"
+          },
+          "rank": 1,
+          "formatted": "4-2"
+        },
+        "recordPostseason": {
+          "losses": 2,
+          "winPercentage": {
+            "formatted": ".000"
+          },
+          "rank": 1,
+          "formatted": "0-2"
+        },
+        "pointsFor": {
+          "value": 1690.9,
+          "formatted": "1,690.9"
+        },
+        "pointsAgainst": {
+          "value": 1651.26,
+          "formatted": "1,651.26"
+        },
+        "streak": {
+          "value": 2,
+          "formatted": "W2"
+        },
+        "waiverAcquisitionBudget": {
+          "value": 200,
+          "formatted": "$200"
+        },
+        "newItemCounts": {
+          "activityUnread": 18
+        },
+        "initials": "JT"
+      },
+      "awayScore": {
+        "score": {
+          "value": 133.86,
+          "formatted": "133.86"
+        }
+      },
+      "homeScore": {
+        "score": {
+          "value": 149.06,
+          "formatted": "149.06"
+        }
+      },
+      "homeResult": "WIN",
+      "awayResult": "LOSE",
+      "isFinalScore": true
+    },
+    {
+      "id": "49110970",
+      "away": {
+        "id": 1672323,
+        "name": "mdubey's Team",
+        "recordOverall": {
+          "wins": 6,
+          "losses": 8,
+          "winPercentage": {
+            "value": 0.42857143,
+            "formatted": ".429"
+          },
+          "rank": 10,
+          "formatted": "6-8"
+        },
+        "recordDivision": {
+          "wins": 1,
+          "losses": 5,
+          "winPercentage": {
+            "value": 0.16666667,
+            "formatted": ".167"
+          },
+          "rank": 4,
+          "formatted": "1-5"
+        },
+        "recordPostseason": {
+          "wins": 2,
+          "losses": 1,
+          "winPercentage": {
+            "value": 0.6666667,
+            "formatted": ".667"
+          },
+          "rank": 10,
+          "formatted": "2-1"
+        },
+        "pointsFor": {
+          "value": 1614.74,
+          "formatted": "1,614.74"
+        },
+        "pointsAgainst": {
+          "value": 1610.52,
+          "formatted": "1,610.52"
+        },
+        "streak": {
+          "value": -2,
+          "formatted": "L2"
+        },
+        "waiverAcquisitionBudget": {
+          "value": 200,
+          "formatted": "$200"
+        },
+        "initials": "MT"
+      },
+      "home": {
+        "id": 1667372,
+        "name": "Dak Label Player of the Game",
+        "recordOverall": {
+          "wins": 6,
+          "losses": 8,
+          "winPercentage": {
+            "value": 0.42857143,
+            "formatted": ".429"
+          },
+          "rank": 6,
+          "formatted": "6-8"
+        },
+        "recordDivision": {
+          "wins": 2,
+          "losses": 4,
+          "winPercentage": {
+            "value": 0.33333334,
+            "formatted": ".333"
+          },
+          "rank": 3,
+          "formatted": "2-4"
+        },
+        "recordPostseason": {
+          "losses": 1,
+          "winPercentage": {
+            "formatted": ".000"
+          },
+          "rank": 6,
+          "formatted": "0-1"
+        },
+        "pointsFor": {
+          "value": 1765.08,
+          "formatted": "1,765.08"
+        },
+        "pointsAgainst": {
+          "value": 1766.12,
+          "formatted": "1,766.12"
+        },
+        "streak": {
+          "value": -2,
+          "formatted": "L2"
+        },
+        "waiverAcquisitionBudget": {
+          "value": 200,
+          "formatted": "$200"
+        },
+        "initials": "DL"
+      },
+      "awayScore": {
+        "score": {
+          "value": 146.9,
+          "formatted": "146.9"
+        }
+      },
+      "homeScore": {
+        "score": {
+          "value": 133.22,
+          "formatted": "133.22"
+        }
+      },
+      "homeResult": "LOSE",
+      "awayResult": "WIN",
+      "isFinalScore": true
+    }
+  ]
+}
