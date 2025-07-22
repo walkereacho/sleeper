@@ -1,0 +1,151 @@
+=== SINGLE SIMULATION ===
+
+=== FANTASY FOOTBALL LOTTERY SIMULATION ===
+
+Pick #1 - Winner: 11th place
+Remaining balls before pick: 1000
+Odds before pick:
+  12th place: 35.0%
+  11th place: 33.0%
+  10th place: 15.0%
+  9th place: 12.0%
+  8th place: 3.0%
+  7th place: 2.0%
+
+Pick #2 - Winner: 9th place
+Remaining balls before pick: 1000
+Odds before pick:
+  12th place: 52.2%
+  10th place: 22.4%
+  9th place: 17.9%
+  8th place: 4.5%
+  7th place: 3.0%
+
+Pick #3 - Winner: 12th place
+Remaining balls before pick: 1001
+Odds before pick:
+  12th place: 63.5%
+  10th place: 27.3%
+  8th place: 5.5%
+  7th place: 3.7%
+
+Pick #4 - Winner: 10th place
+Remaining balls before pick: 1001
+Odds before pick:
+  10th place: 74.8%
+  8th place: 15.1%
+  7th place: 10.1%
+
+Pick #5 - Winner: 8th place
+Remaining balls before pick: 1001
+Odds before pick:
+  8th place: 59.9%
+  7th place: 40.1%
+
+Pick #6 - Winner: 7th place
+Remaining balls before pick: 1001
+Odds before pick:
+  7th place: 100.0%
+
+=== FINAL DRAFT POSITIONS ===
+Position 1: 11th place team
+Position 2: 9th place team
+Position 3: 12th place team
+Position 4: 10th place team
+Position 5: 8th place team
+Position 6: 7th place team
+
+=== RUNNING 10,000 SIMULATIONS ===
+
+=== SIMULATION STATISTICS (10000 simulations) ===
+
+🔒 PROTECTION RULE ACTIVATIONS:
+  12th place: 41.5% of simulations
+  11th place: 6.4% of simulations
+  10th place: 2.3% of simulations
+
+📊 FINAL POSITION DISTRIBUTION:
+12th place team final positions:
+  Position 1: 35.4%
+  Position 2: 30.2%
+  Position 3: 34.5%
+
+11th place team final positions:
+  Position 1: 32.1%
+  Position 2: 29.1%
+  Position 3: 22.9%
+  Position 4: 15.8%
+
+10th place team final positions:
+  Position 1: 15.0%
+  Position 2: 18.1%
+  Position 3: 24.7%
+  Position 4: 27.8%
+  Position 5: 14.4%
+
+9th place team final positions:
+  Position 1: 12.3%
+  Position 2: 15.4%
+  Position 3: 20.3%
+  Position 4: 32.1%
+  Position 5: 16.3%
+  Position 6: 3.6%
+
+8th place team final positions:
+  Position 1: 3.2%
+  Position 2: 4.1%
+  Position 3: 6.6%
+  Position 4: 16.2%
+  Position 5: 39.5%
+  Position 6: 30.5%
+
+7th place team final positions:
+  Position 1: 2.1%
+  Position 2: 3.0%
+  Position 3: 4.8%
+  Position 4: 11.4%
+  Position 5: 32.1%
+  Position 6: 46.6%
+
+🎰 LOTTERY WIN PERCENTAGES BY PICK:
+Pick #1:
+  12th place: 35.4%
+  11th place: 32.1%
+  10th place: 15.0%
+  9th place: 12.3%
+  8th place: 3.2%
+  7th place: 2.1%
+
+Pick #2:
+  12th place: 30.2%
+  11th place: 29.1%
+  10th place: 18.1%
+  9th place: 15.4%
+  8th place: 4.1%
+  7th place: 3.0%
+
+Pick #3:
+  12th place: 20.6%
+  11th place: 22.9%
+  10th place: 24.7%
+  9th place: 20.3%
+  8th place: 6.6%
+  7th place: 4.8%
+
+Pick #4:
+  11th place: 12.6%
+  10th place: 27.8%
+  9th place: 32.1%
+  8th place: 16.2%
+  7th place: 11.4%
+
+Pick #5:
+  10th place: 12.1%
+  9th place: 16.3%
+  8th place: 39.5%
+  7th place: 32.1%
+
+Pick #6:
+  9th place: 3.6%
+  8th place: 30.5%
+  7th place: 46.6%
